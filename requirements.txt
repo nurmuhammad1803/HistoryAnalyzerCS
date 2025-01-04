@@ -1,3 +1,2 @@
 pyTelegramBotAPI==4.14.0
 matplotlib==3.10.0
-emoji==2.14.0
