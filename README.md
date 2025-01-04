@@ -11,7 +11,7 @@
 ## Features:
 1. **Most used words** (Reveals TOP 10 most used words by user and depicts via bar chart)
 2. **Most used EMOJIS**
-3. **Compares activity of user in each month ** (students&unknown_faces)
+3. **Compares activity of user in each month** (students&unknown_faces)
 4. **Compares activity in each day of the week**
 5. **Compares the activity in different timeframes** (midnight, morning, evening, etc.)
 6. **Shows TOP people with highest activity**
