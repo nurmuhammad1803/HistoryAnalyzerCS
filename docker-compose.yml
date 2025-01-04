@@ -1,0 +1,6 @@
+version: '3'
+services:
+  telbot:
+    image: dockerbot:latest
+    container_name: telegram_data_analysis_bot
+    restart: unless-stopped
